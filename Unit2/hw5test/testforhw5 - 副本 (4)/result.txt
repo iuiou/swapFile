@@ -1,0 +1,1 @@
+Your input is valid, base time is 25, max time is 28
