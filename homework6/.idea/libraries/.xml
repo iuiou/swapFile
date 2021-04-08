@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="面向对象电梯系列第二次官方包">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/base/homework_6-master-fbc7cef8b5f7cd9e920f76f3fc9b2c77ebce0d8a/面向对象电梯系列第二次官方包/elevator-input-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/base/homework_6-master-fbc7cef8b5f7cd9e920f76f3fc9b2c77ebce0d8a/面向对象电梯系列第二次官方包/timable-output.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
