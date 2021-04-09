@@ -1,0 +1,20 @@
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+timer.exe < stdin.txt | java -jar run.jar
+pause
