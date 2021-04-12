@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="homeworksixanother:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/homeworksixanother_jar</output-path>
+    <root id="archive" name="homeworksixanother.jar">
+      <element id="module-output" name="homeworksixanother" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../homework6/base/homework_6-master-fbc7cef8b5f7cd9e920f76f3fc9b2c77ebce0d8a/面向对象电梯系列第二次官方包/timable-output.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../homework6/base/homework_6-master-fbc7cef8b5f7cd9e920f76f3fc9b2c77ebce0d8a/面向对象电梯系列第二次官方包/elevator-input-2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
